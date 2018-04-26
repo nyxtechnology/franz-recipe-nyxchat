@@ -1,0 +1,16 @@
+{
+  "id": "nyxchat",
+  "name": "Nyx.Chat",
+  "version": "1.0.6",
+  "description": "Nyx.Chat",
+  "main": "index.js",
+  "author": "Stefan Malzner <stefan@adlk.io>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamId}.nyx.tc",
+    "hasNotificationSound": true,
+    "hasCustomUrl": true,
+    "hasTeamId": true,
+    "urlInputSuffix": ".nyx.tc"
+  }
+}
